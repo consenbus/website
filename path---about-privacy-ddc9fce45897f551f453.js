@@ -1,0 +1,2 @@
+webpackJsonp([0x6fb92b44c50b],{422:function(t,o){t.exports={data:{markdownRemark:{html:"<p>Coming soon.</p>",excerpt:"Coming soon.",timeToRead:1,fields:{slug:"/about/privacy/"},frontmatter:{title:"Privacy"}}},pathContext:{slug:"/about/privacy/"}}}});
+//# sourceMappingURL=path---about-privacy-ddc9fce45897f551f453.js.map

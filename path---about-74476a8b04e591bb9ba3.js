@@ -1,0 +1,2 @@
+webpackJsonp([0xf927f8900006],{425:function(t,o){t.exports={data:{markdownRemark:{html:"<p>Coming soon.</p>",excerpt:"Coming soon.",timeToRead:1,fields:{slug:"/about/"},frontmatter:{title:"About"}}},pathContext:{slug:"/about/"}}}});
+//# sourceMappingURL=path---about-74476a8b04e591bb9ba3.js.map
